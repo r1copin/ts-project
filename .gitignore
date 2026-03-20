@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+src/data
+src/catboost_info
+src/lightning_logs
+.venv
+.idea
